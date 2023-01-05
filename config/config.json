@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "Lililash",
-    "host": "127.0.0.1",
+    "username": "b1cdaea9b21a6b",
+    "password": "a3785621",
+    "database": "heroku_7ca4c4e320e87b0",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "b1cdaea9b21a6b",
+    "password": "a3785621",
+    "database": "heroku_7ca4c4e320e87b0",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "b1cdaea9b21a6b",
+    "password": "a3785621",
+    "database": "heroku_7ca4c4e320e87b0",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   }
 }
